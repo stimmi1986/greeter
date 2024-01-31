@@ -1,4 +1,5 @@
-import is.hi.soa61.hbv202g.ass3.backend.Greeter;
+package is.hi.soa61.hbv202g.ass3.backend;
+
 import is.hi.soa61.hbv202g.ass3.frontend.UserInterface;
 
 public class Main {
